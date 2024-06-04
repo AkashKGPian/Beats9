@@ -1,0 +1,27 @@
+.Artist{
+    display:flex;
+    justify-content: space-around;
+}
+.card{
+    display:flex;
+    align-content: center;
+}
+.featuredPlaylist{
+    margin:55px;
+}
+.rcard{
+    display: inline-flex;
+    justify-content: space-between;
+}
+.rowContainer{
+    display: flex;
+    justify-content: space-around;
+}
+.footerContainer{
+    display:flex;
+    justify-content: flex-start;
+    gap:12px;
+}
+.block{
+    display:inline-flex;
+}
